@@ -1,17 +1,3 @@
-'''
-Horn Schunck
-================
-
-Usage:
-------
-	HornSchunck.py <video path>
-	e.g hw.py ../data/Walk1.mpg
-
-Keys:
------
-	P - pause/release frame from video
-	q - to quit the promgram(only after release the frame)
-'''
 import cv2
 import numpy as np
 import sys
